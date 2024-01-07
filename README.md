@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there Sanjith Kumar Here 👋
 
+- 🔭 AI Enthusiast, Data Scientist, Android Developer(Beginner)✨.
+- Doing my bachelor's degree at St. Joseph's Institute of Technology👨‍🎓.
+- Obsessed with technology🧑‍💻⚙️
+- Always Open and Ready to Collaborate🔥
 <!--
 **SANJITH-KUMAR-20/SANJITH-KUMAR-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
