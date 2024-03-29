@@ -30,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjith-kumar-20&show_icons=true&locale=en&layout=compact" alt="sanjith-kumar-20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjith-kumar-20&show_icons=true&locale=en" alt="sanjith-kumar-20" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjith-kumar-20&" alt="sanjith-kumar-20" /></p>
