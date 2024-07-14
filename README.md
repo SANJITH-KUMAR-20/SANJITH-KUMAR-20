@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjith Kumar</h1>
-<h3 align="center">A passionate Deep Learning and AI Enthusiast from India</h3>
+<h3 align="center">A passionate Deep Learning and AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjith-kumar-20&label=Profile%20views&color=0e75b6&style=flat" alt="sanjith-kumar-20" /> </p>
 
